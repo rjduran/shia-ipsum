@@ -1,0 +1,14 @@
+{
+  "name": "shia-ipsum",
+  "version": "1.0.0",
+  "description": "The Motivational Ipsum",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RJ Duran (rj.duran@colorado.edu), Critical Making Studio (http://make.cmci.studio)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
